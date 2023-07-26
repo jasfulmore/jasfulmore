@@ -1,4 +1,4 @@
-![github-header-image (1)]![Jasmine Fulmore-logo](https://github.com/jasfulmore/jasfulmore/assets/95544194/297a6487-df53-4444-9873-2fc1622b075b)
+[Jasmine Fulmore-logo](https://github.com/jasfulmore/jasfulmore/assets/95544194/297a6487-df53-4444-9873-2fc1622b075b)
 
 
 
